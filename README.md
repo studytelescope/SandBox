@@ -4,7 +4,7 @@ Here is a simple project which demonstrates opportunuties of the RoaringBitmap l
 
 ## Structure overview
 
-``
+```ShellSession
 .
 ├── benchmarks
 │   ├── graphs
@@ -31,4 +31,4 @@ Here is a simple project which demonstrates opportunuties of the RoaringBitmap l
     ├── manual_tests.go
     ├── queries_test.go
     └── search_test.go
-``
+```
